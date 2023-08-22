@@ -1,10 +1,10 @@
 #### 👨‍💻 Languages
 ![](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
 ![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![](https://img.shields.io/badge/-Go-000?&logo=go)
 ![](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![](https://img.shields.io/badge/-Python-000?&logo=python)
-![](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![](https://img.shields.io/badge/-Java-000?&logo=java)
 ![](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
 ![](https://img.shields.io/badge/-SQL-000?&logo=amazon-dynamodb)
